@@ -1,8 +1,5 @@
 package ro.fasttrackit.tema4exerc3;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class MainApp 
 {
     public static void main( String[] args )
